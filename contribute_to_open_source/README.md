@@ -19,9 +19,6 @@ This guide will give you a quick introduction on how to contribute to open, both
 5. Organizing - This can include activies such as asking question to clarify on submitted issues, relabling issues and identifying duplicate issues etcs.
 6. Helping other people contribute to the project - This can include activities such as reviewing other peoples submission, write tutorials that can help other people contribute on the project etcs. 
 
-## What to understand about a project before contributing?
-Since differnt projects have different ways they organize themselves, understanding them is key before you start contributing.
-
 ## People associated with a typical open source file
 1. Author - The person/organization that created the project 
 2. Owner - The person who has administrative ownership over the organization or repository. It not a must it is the author.
