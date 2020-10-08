@@ -240,3 +240,7 @@ A Restaurant Management App for Web, iOS and Android
 - [rust](https://www.codetriage.com/rust-lang/rust) A safe, concurrent, practical languange
 
 - [tensorflow](https://www.codetriage.com/tensorflow/tensorflow) computation using data flow graphs for scalable machine learning   
+
+
+## Contribute
+Contributions are welcome! See the [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
